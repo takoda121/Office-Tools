@@ -1,7 +1,7 @@
 # Office Tools
 Some tools you could use in a office  
 ## Includes:
-> Sentence 
+> Sentence  
 > Electric Point (soon)  
 ## Sentence
 > Saves to .docx  
